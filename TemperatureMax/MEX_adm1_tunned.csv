@@ -1,0 +1,33 @@
+,OBJECTID,ID_0,ISO,NAME_0,ID_1,NAME_1,HASC_1,CCN_1,CCA_1,TYPE_1,ENGTYPE_1,NL_NAME_1,VARNAME_1,maxtmp
+0,1,145,MEX,Mexico,1,Aguascalientes,MX.AG,,,Estado,State,,,254
+1,2,145,MEX,Mexico,2,Baja California Sur,MX.BS,,,Estado,State,,,257
+2,3,145,MEX,Mexico,3,Baja California,MX.BN,,,Estado,State,,,104
+3,4,145,MEX,Mexico,4,Campeche,MX.CM,,,Estado,State,,,64
+4,5,145,MEX,Mexico,5,Chiapas,MX.CP,,,Estado,State,,,169
+5,6,145,MEX,Mexico,6,Chihuahua,MX.CH,,,Estado,State,,,306
+6,7,145,MEX,Mexico,7,Coahuila,MX.CA,,,Estado,State,,,200
+7,8,145,MEX,Mexico,8,Colima,MX.CL,,,Estado,State,,,156
+8,9,145,MEX,Mexico,9,Distrito Federal,MX.DF,,,Distrito Federal,Federal District,,,62
+9,10,145,MEX,Mexico,10,Durango,MX.DU,,,Estado,State,,,285
+10,11,145,MEX,Mexico,11,Guanajuato,MX.GJ,,,Estado,State,,,54
+11,12,145,MEX,Mexico,12,Guerrero,MX.GR,,,Estado,State,,,75
+12,13,145,MEX,Mexico,13,Hidalgo,MX.HI,,,Estado,State,,,39
+13,14,145,MEX,Mexico,14,Jalisco,MX.JA,,,Estado,State,,,234
+14,15,145,MEX,Mexico,15,México,MX.MX,,,Estado,State,,,242
+15,16,145,MEX,Mexico,16,Michoacán,MX.MC,,,Estado,State,,,124
+16,17,145,MEX,Mexico,17,Morelos,MX.MR,,,Estado,State,,,269
+17,18,145,MEX,Mexico,18,Nayarit,MX.NA,,,Estado,State,,,48
+18,19,145,MEX,Mexico,19,Nuevo León,MX.NL,,,Estado,State,,,222
+19,20,145,MEX,Mexico,20,Oaxaca,MX.OA,,,Estado,State,,,226
+20,21,145,MEX,Mexico,21,Puebla,MX.PU,,,Estado,State,,,83
+21,22,145,MEX,Mexico,22,Querétaro,MX.QE,,,Estado,State,,,285
+22,23,145,MEX,Mexico,23,Quintana Roo,MX.QR,,,Estado,State,,,95
+23,24,145,MEX,Mexico,24,San Luis Potosí,MX.SL,,,Estado,State,,,31
+24,25,145,MEX,Mexico,25,Sinaloa,MX.SI,,,Estado,State,,,188
+25,26,145,MEX,Mexico,26,Sonora,MX.SO,,,Estado,State,,,76
+26,27,145,MEX,Mexico,27,Tabasco,MX.TB,,,Estado,State,,,115
+27,28,145,MEX,Mexico,28,Tamaulipas,MX.TM,,,Estado,State,,,58
+28,29,145,MEX,Mexico,29,Tlaxcala,MX.TL,,,Estado,State,,,200
+29,30,145,MEX,Mexico,30,Veracruz,MX.VE,,,Estado,State,,,256
+30,31,145,MEX,Mexico,31,Yucatán,MX.YU,,,Estado,State,,,322
+31,32,145,MEX,Mexico,32,Zacatecas,MX.ZA,,,Estado,State,,,90
