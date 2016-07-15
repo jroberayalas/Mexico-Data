@@ -1,3 +1,4 @@
-*.html
-*.png
+HTML/*.html
+Imagenes/*.png
 *.gif
+
